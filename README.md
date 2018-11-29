@@ -1,8 +1,4 @@
-Copyright (C) 2018 CarbonRom
-
-The MI 6X (codenamed _"wayne"_) is a mid-range phone from Xiaomi.
-
-Xiaomi MI 6X was announced and released in July 2018.
+This repository contains device configuration for Xiaomi MI 6X (wayne)
 
 ## Device specifications
 
